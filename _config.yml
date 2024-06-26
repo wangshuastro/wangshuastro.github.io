@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Shu Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Shu Wang"
-description              : "SNU Science Fellow"
+description              : &description "personal description"
 url                      : https://wangshuastro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangshuastro/wangshuastro.github.io"
@@ -21,8 +21,8 @@ repository               : "wangshuastro/wangshuastro.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Shu Wang"
+  avatar           : "profile.jpg"
+  name             : "Shu Wang (王澍)"
   pronouns         : # example: "she/her"  
   email            : "wangshu100002 at gmail.com" 
   bio              : #"Short biography for the left-hand sidebar"
@@ -122,7 +122,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :

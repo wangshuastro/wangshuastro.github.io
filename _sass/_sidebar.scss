@@ -21,7 +21,7 @@
   }
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(3 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -47,12 +47,12 @@
 
   p, li {
     font-family: $sans-serif;
-    font-size: $type-size-6;
-    line-height: 1.5;
+    font-size: $type-size-5;
+    line-height: 1.6;
   }
 
   img {
-    width: 100%;
+    width: 120%;
   }
 }
 
@@ -79,7 +79,7 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 100px;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -90,11 +90,11 @@
   }
 
   img {
-    max-width: 175px;
+    max-width: 250px;
     border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 10px;
       border: 1px solid $border-color;
     }
   }
@@ -125,7 +125,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-3;
 }
 
 .sidebar .author__desktop {
