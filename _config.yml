@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shu Wang's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Shu Wang"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Shu Wang (王澍)"
-  pronouns         : # example: "she/her"  
+  pronouns         : "SNU Science Fellow"  
   email            : "wangshu100002 at gmail.com" 
   bio              : #"Short biography for the left-hand sidebar"
   employer         : "Seoul National University"
@@ -33,9 +33,9 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=NZUWGqwAAAAJ&hl=ko"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-2052-6400"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
