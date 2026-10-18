@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Shu Wang"
-description              : &description "personal description"
+description              : &description "Shu Wang - astronomer working on active galactic nuclei and reverberation mapping"
 url                      : https://wangshuastro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangshuastro/wangshuastro.github.io"
@@ -23,19 +23,19 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Shu Wang (王澍)"
-  pronouns         : "SNU Science Fellow"  
-  email            : "wangshu100002 at gmail.com" 
+  pronouns         : "Research Fellow"  
+  email            : "Shu.Wang@soton.ac.uk" 
   bio              : #"Short biography for the left-hand sidebar"
-  employer         : "Seoul National University"
-  location         : "1, Gwanak Ro., Gwanak Gu, 08826, Seoul, Korea"
+  employer         : "University of Southampton"
+  location         : "Southampton, UK"
   uri              : # URL
 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=NZUWGqwAAAAJ&hl=ko"
+  googlescholar    : "https://scholar.google.com/citations?user=NZUWGqwAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0002-2052-6400"
+  orcid            : "https://orcid.org/0000-0002-2052-6400"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
