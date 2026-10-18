@@ -30,7 +30,7 @@ author_profile: true
 
 <h3>Current work: simulating TiDES-RM</h3>
 
-<p>In <em>TiDES Reverberation Mapping Project. I. Simulating the Outcomes from Five-Year Monitoring</em> (Wang et al., in preparation), we build end-to-end simulations of the survey. With the help of LSST photometry, the 4MOST spectra can be calibrated to a precision of 1–2%, and the simulations predict that lags can be successfully recovered for a large fraction of the sample. TiDES-RM will also enable studies of broad-line region kinematics and dynamical modeling for a large sample across different emission lines. Together, these will lead to better constraints on the radius–luminosity relation, broad-line region kinematics and black hole mass measurements.</p>
+<p>In <em>TiDES Reverberation Mapping Project. I. Simulating the Outcomes from Five-Year Monitoring</em> (Wang et al., in preparation), we build end-to-end simulations of the survey. With the help of LSST photometry, the 4MOST spectra can be calibrated to a precision of 1–2%, and the simulations predict that lags can be successfully recovered for a large fraction of the sample. In particular, the survey will deliver a large number of AGNs with lags measured in multiple emission lines, such as Hβ + Mg II and Mg II + C IV. TiDES-RM will also enable studies of broad-line region kinematics and dynamical modeling for a large sample across different emission lines. Together, these will lead to better constraints on the radius–luminosity relation, broad-line region kinematics and black hole mass measurements.</p>
 
 <h3>Related links</h3>
 
