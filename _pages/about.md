@@ -12,23 +12,9 @@ redirect_from:
 Welcome to Shu Wang's Homepage
 ===
 
-Hello! I am a Research Fellow in the School of Physics & Astronomy at the **University of Southampton**, UK. Before joining Southampton in 2025, I was an SNU Science Fellow and a postdoctoral fellow at **Seoul National University**, Korea. I received my Ph.D. in Astronomy from **Peking University** in 2020.
+Hello! I am a Research Fellow in the School of Physics & Astronomy at the **University of Southampton**, UK. Before joining Southampton in 2025, I was an SNU Science Fellow and a postdoctoral fellow at **Seoul National University**, Korea.
 
-I work on **active galactic nuclei (AGN)** and **time-domain astronomy**. My research focuses on using **reverberation mapping** to measure supermassive black hole masses and to understand the structure and kinematics of the broad-line region, and on spectroscopic and time-series analysis of large quasar samples.
-
-<h3 class="cv-section">Research interests</h3>
-
-- Reverberation mapping and black hole mass measurements
-- Broad-line region structure, kinematics and scaling relations
-- Changing-look and highly variable AGNs
-- Intermediate-mass black holes
-- Large spectroscopic and time-domain surveys
-
-<h3 class="cv-section">Collaborations and roles</h3>
-
-- Co-lead of the **TiDES-RM** program (2025–)
-- Co-lead of 4MOST Infrastructure Working Group 6, Quality Control (2026–)
-- Member of 4MOST TiDES, SDSS-RM, SAMP, LSST AGN Science Collaboration and Rubin DRH
+I work on **active galactic nuclei (AGN)** and **time-domain astronomy**. My research focuses on using **reverberation mapping** to measure supermassive black hole masses and to understand the structure and kinematics of the broad-line region, and on spectroscopic and time-series analysis of large quasar samples. I currently co-lead [TiDES-RM](/projects/), a five-year reverberation mapping program combining 4MOST spectroscopy with LSST photometry.
 
 <h3 class="cv-section">Contact</h3>
 
