@@ -62,24 +62,5 @@ redirect_from:
 <div class="cv-item"><div class="cv-main"><strong>Workshop Organizer, East-Asia AGN Workshop</strong><br><span class="cv-sub">Changchun, China</span></div><div class="cv-date">2015</div></div>
 <div class="cv-item"><div class="cv-main"><strong>Supervisor, Astronomical Summer Camp for High-School Students</strong><br><span class="cv-sub">Peking University</span></div><div class="cv-date">2015</div></div>
 
-<h2 class="cv-section">Talks and Seminars</h2>
-
-<div class="cv-item"><div class="cv-main"><strong>Breaking the Limits 2026</strong><br><span class="cv-sub">Talk · Cagliari, Italy</span></div><div class="cv-date">Jun 2026</div></div>
-<div class="cv-item"><div class="cv-main"><strong>Torus 2026</strong><br><span class="cv-sub">Talk · Kyoto, Japan</span></div><div class="cv-date">May 2026</div></div>
-<div class="cv-item"><div class="cv-main"><strong>Shandong University</strong><br><span class="cv-sub">Seminar · Weihai, China</span></div><div class="cv-date">Jan 2025</div></div>
-<div class="cv-item"><div class="cv-main"><strong>Zhejiang University</strong><br><span class="cv-sub">Seminar · Hangzhou, China</span></div><div class="cv-date">Dec 2024</div></div>
-<div class="cv-item"><div class="cv-main"><strong>IHEP (online)</strong><br><span class="cv-sub">Invited talk · Beijing, China</span></div><div class="cv-date">Sep 2024</div></div>
-<div class="cv-item"><div class="cv-main"><strong>National Astronomical Observatories, CAS (NAOC)</strong><br><span class="cv-sub">Seminar · Beijing, China</span></div><div class="cv-date">Sep 2024</div></div>
-<div class="cv-item"><div class="cv-main"><strong>SPHEREx Workshop</strong><br><span class="cv-sub">Talk · Daejeon, Korea</span></div><div class="cv-date">Jul 2024</div></div>
-<div class="cv-item"><div class="cv-main"><strong>COSPAR 2024</strong><br><span class="cv-sub">Talk · Busan, Korea</span></div><div class="cv-date">Jul 2024</div></div>
-<div class="cv-item"><div class="cv-main"><strong>East-Asia AGN Workshop (online)</strong><br><span class="cv-sub">Talk · Kagoshima, Japan</span></div><div class="cv-date">Sep 2023</div></div>
-<div class="cv-item"><div class="cv-main"><strong>Woojeon Astronomy Workshop</strong><br><span class="cv-sub">Talk · Seoul, Korea</span></div><div class="cv-date">Aug 2023</div></div>
-<div class="cv-item"><div class="cv-main"><strong>Restless Nature of AGN: 10 Years Later</strong><br><span class="cv-sub">Talk · Naples, Italy</span></div><div class="cv-date">Jun 2023</div></div>
-<div class="cv-item"><div class="cv-main"><strong>241st Meeting of the American Astronomical Society</strong><br><span class="cv-sub">Talk · Seattle, USA</span></div><div class="cv-date">Jan 2023</div></div>
-<div class="cv-item"><div class="cv-main"><strong>XXXIst General Assembly of the International Astronomical Union</strong><br><span class="cv-sub">Talk · Busan, Korea</span></div><div class="cv-date">Aug 2022</div></div>
-<div class="cv-item"><div class="cv-main"><strong>Seoul National University</strong><br><span class="cv-sub">Seminar · Seoul, Korea</span></div><div class="cv-date">May 2022</div></div>
-<div class="cv-item"><div class="cv-main"><strong>Korean Astronomical Society Meeting</strong><br><span class="cv-sub">Talk · Gyeongju, Korea</span></div><div class="cv-date">May 2022</div></div>
-<div class="cv-item"><div class="cv-main"><strong>13th Jing-Guang-Xia Astrophysics Seminar</strong><br><span class="cv-sub">Talk · Nanning, China</span></div><div class="cv-date">Nov 2019</div></div>
-<div class="cv-item"><div class="cv-main"><strong>Cosmic Evolution of Quasars: From the First Light to Local Relics</strong><br><span class="cv-sub">Talk · Beijing, China</span></div><div class="cv-date">Oct 2019</div></div>
 
 <p class="lead" style="margin-top:2em">See also: <a href="/publications/">Publications</a> · <a href="/projects/">Projects</a></p>
