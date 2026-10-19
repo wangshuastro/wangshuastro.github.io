@@ -20,7 +20,7 @@ redirect_from:
 <h2 class="cv-section">Collaborations and Roles</h2>
 
 <div class="cv-item"><div class="cv-main"><strong>Co-lead, TiDES Reverberation Mapping (TiDES-RM) program</strong><br><span class="cv-sub">4MOST Time-Domain Extragalactic Survey (TiDES)</span></div><div class="cv-date">2025 –</div></div>
-<div class="cv-item"><div class="cv-main"><strong>Co-lead, Infrastructure Working Group 6 (Quality Control)</strong><br><span class="cv-sub">4MOST</span></div><div class="cv-date">2026 –</div></div>
+<div class="cv-item"><div class="cv-main"><strong>Co-lead, 4MOST Infrastructure Working Group 6 (Quality Control)</strong></div><div class="cv-date">2026 –</div></div>
 <div class="cv-item"><div class="cv-main"><strong>Member</strong><br><span class="cv-sub">4MOST TiDES; SDSS-RM; SNU AGN Monitoring Project (SAMP); LSST AGN Science Collaboration; Rubin Data Rights Holder</span></div><div class="cv-date"></div></div>
 
 <h2 class="cv-section">Education</h2>
